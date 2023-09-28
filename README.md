@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @llassan
+- 👋 Hi, I’m Vikash Kumar
 - 👀 I’m interested in Full Stack Development
 - 🌱 I’m currently learning and exploring Web and Mobile Development
 - 💞️ I’m looking to collaborate on the same
